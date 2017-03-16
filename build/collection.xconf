@@ -23,23 +23,5 @@
             <text qname="tei:listBibl"/>
             <text qname="tei:cit"/>
         </lucene>
-        <ngram qname="tei:teiHeader"/>
-        <ngram qname="tei:encodingDesc"/>
-        <ngram qname="tei:fileDesc"/>
-        <ngram qname="tei:profileDesc"/>
-        <ngram qname="tei:revisionDesc"/>
-        <ngram qname="tei:div"/>
-        <ngram qname="tei:p"/>
-        <ngram qname="tei:head"/>
-        <ngram qname="tei:lg"/>
-        <ngram qname="tei:trailer"/>
-        <ngram qname="tei:note"/>
-        <ngram qname="tei:list"/>
-        <ngram qname="tei:l"/>
-        <ngram qname="tei:quote"/>
-        <ngram qname="tei:table"/>
-        <ngram qname="tei:listApp"/>
-        <ngram qname="tei:listBibl"/>
-        <ngram qname="tei:cit"/>
     </index>
 </collection>
